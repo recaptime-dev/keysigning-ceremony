@@ -1,0 +1,3 @@
+secrets/
+!secrets/pgp/.gitkeep
+!secrets/ssh/.gitkeep
