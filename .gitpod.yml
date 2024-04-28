@@ -1,0 +1,5 @@
+image:
+  file: .devcontainer/Dockerfile
+tasks:
+- before: direnv allow
+  #command: bash ./scripts/setup-ksc
